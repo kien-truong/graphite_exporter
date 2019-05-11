@@ -3,3 +3,5 @@
 /.tarballs
 /graphite_exporter
 *.tar.gz
+/.idea
+
